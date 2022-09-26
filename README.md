@@ -1,4 +1,4 @@
-### 💻  Hi there, my name is Nazar 💻<br><br>
+### <p align="center">💻  Hi there, my name is Nazar 💻</p><br><br>
 ### ⌨️ I'm trying to become a professional front-end developer<br>
 ### ⌨️ i'm currently learning Node JS
 
