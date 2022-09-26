@@ -1,5 +1,5 @@
 ### 💫 About Me:
-#💻  Hi there, my name is Nazar 💻<br><br>#⌨️ I'm trying to become a professional front-end developer<br>#⌨️ i'm currently learning Node JS
+## 💻  Hi there, my name is Nazar 💻<br><br> ## ⌨️ I'm trying to become a professional front-end developer<br> ## ⌨️ i'm currently learning Node JS
 
 
 # 💻 Tech Stack:
@@ -11,6 +11,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-meme.herokuapp.com/" width="512px"/>
