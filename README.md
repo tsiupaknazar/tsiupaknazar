@@ -1,7 +1,6 @@
-### 💫 About Me:
-## 💻  Hi there, my name is Nazar 💻<br><br>
-⌨️ I'm trying to become a professional front-end developer<br>
-⌨️ i'm currently learning Node JS
+### 💻  Hi there, my name is Nazar 💻<br><br>
+### ⌨️ I'm trying to become a professional front-end developer<br>
+### ⌨️ i'm currently learning Node JS
 
 
 # 💻 Tech Stack:
