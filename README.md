@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">💻Trying to become a professional front-end developer💻</h3>
+<h3 align="center">💻Trying to become a professional web developer💻</h3>
 
 - 🌱 I’m currently learning **Node JS, Express JS**
 
