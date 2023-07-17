@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">💻Trying to become a professional web developer💻</h3>
 
-- 🌱 I’m currently learning **Node JS, Express JS**
+- 🌱 I’m currently learning **JS backend, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
