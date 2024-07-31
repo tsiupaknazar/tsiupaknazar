@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">💻Trying to become a professional web developer💻</h3>
 
-- 🌱 I’m currently learning **JS backend, React Native**
-
 - 📫 How to reach me: **nazarii.tsiupak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
