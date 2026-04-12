@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">💻I'm a frontend developer currently immersing myself in the world of modern web architecture. My focus is on building interactive and high-performance user interfaces using React JS and Next.js, with a strong emphasis on writing clean, scalable code. I enjoy the process of turning complex design ideas into seamless digital experiences and am constantly exploring the latest features in the React ecosystem to sharpen my skills.💻</h3>
+<h3 align="center">I'm a frontend developer currently immersing myself in the world of modern web architecture. My focus is on building interactive and high-performance user interfaces using React JS and Next.js, with a strong emphasis on writing clean, scalable code. I enjoy the process of turning complex design ideas into seamless digital experiences and am constantly exploring the latest features in the React ecosystem to sharpen my skills.</h3>
 
 - 📫 How to reach me: **nazarii.tsiupak@gmail.com**
 
